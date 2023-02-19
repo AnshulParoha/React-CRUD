@@ -1,0 +1,28 @@
+{
+  "User": [
+    {
+      "name": "Anshul",
+      "email": "anshul@gmail.com",
+      "contact": "8959429126",
+      "id": 1
+    },
+    {
+      "name": "Yashraj",
+      "email": "yash@gmail.ocm",
+      "contact": "7412589632",
+      "id": 2
+    },
+    {
+      "name": "Abhinay",
+      "email": "abhinay@gmail.com",
+      "contact": "8963258741",
+      "id": 3
+    },
+    {
+      "name": "Alexa",
+      "email": "alexa@gmail.com",
+      "contact": "7896454126",
+      "id": 4
+    }
+  ]
+}
